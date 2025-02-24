@@ -8,26 +8,6 @@
 <h1 align="center">🚀 Void Linux: Where Simplicity Meets Power</h1>
 <h3 align="center">The Ultimate Haven for System Programmers and Power Users</h3>
 
-### 🎯 About Me
-
-I'm a system programmer who believes that the best systems are like well-crafted mechanical watches: precise, reliable, and free from unnecessary complications. Just as a master horologist carefully selects each component, I choose my tools with purpose:
-
-```c
-typedef struct SystemPhilosophy    {
-    const char *init_system;
-    const char *privilege_escalation;
-    const char *package_manager;
-    bool has_systemd;
-} SystemPhilosophy;
-
-static const SystemPhilosophy my_setup = {
-    .init_system = "runit",          // Because simplicity is the ultimate sophistication
-    .privilege_escalation = "doas",  // sudo? We don't do that here
-    .package_manager = "xbps",       // apt? Never heard of her
-    .has_systemd = false            // And that's the way we like it
-};
-```
-
 <div align="center">
 
 *"In the realm of Linux distributions, perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."*
