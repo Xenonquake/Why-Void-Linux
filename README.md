@@ -1,5 +1,32 @@
+<div align="center">
+
+*"In the world of system programming, elegance is not about what you add, but what you consciously leave out."*
+
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--02--24-blue)
+</div>
+
 <h1 align="center">🚀 Void Linux: Where Simplicity Meets Power</h1>
 <h3 align="center">The Ultimate Haven for System Programmers and Power Users</h3>
+
+### 🎯 About Me
+
+I'm a system programmer who believes that the best systems are like well-crafted mechanical watches: precise, reliable, and free from unnecessary complications. Just as a master horologist carefully selects each component, I choose my tools with purpose:
+
+```c
+typedef struct SystemPhilosophy {
+    const char *init_system;
+    const char *privilege_escalation;
+    const char *package_manager;
+    bool has_systemd;
+} SystemPhilosophy;
+
+static const SystemPhilosophy my_setup = {
+    .init_system = "runit",          // Because simplicity is the ultimate sophistication
+    .privilege_escalation = "doas",  // sudo? We don't do that here
+    .package_manager = "xbps",       // apt? Never heard of her
+    .has_systemd = false            // And that's the way we like it
+};
+```
 
 <div align="center">
 
@@ -82,10 +109,10 @@ What sets Void Linux apart:
 3. **Security First**
    ```c
    // Security in Void Linux is like good code
-   [[nodiscard]] static inline const char* security_philosophy(void) {
-    return "Minimal attack surface, maximum control";
+   [[nodiscard]] static inline const char* restrict security_philosophy(void) {
+   return "Minimal attack surface, maximum control";
    }
-   ```
+
 
 ### 🚀 Perfect For:
 
@@ -124,8 +151,14 @@ void_advantages = {
    - You understand your system
    - You control your system
    - Your system serves you, not vice versa
+  
 
 ---
+
+<h1 align="center"> If you think good architecture is expensive, try bad architecture </h1>
+
+---
+
 
 <div align="center">
 
