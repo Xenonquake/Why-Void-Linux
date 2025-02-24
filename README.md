@@ -13,7 +13,7 @@
 I'm a system programmer who believes that the best systems are like well-crafted mechanical watches: precise, reliable, and free from unnecessary complications. Just as a master horologist carefully selects each component, I choose my tools with purpose:
 
 ```c
-typedef struct SystemPhilosophy avg_user {
+typedef struct SystemPhilosophy    {
     const char *init_system;
     const char *privilege_escalation;
     const char *package_manager;
