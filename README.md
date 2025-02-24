@@ -1,4 +1,3 @@
-# Why-Void-Linux
 <h1 align="center">🚀 Void Linux: Where Simplicity Meets Power</h1>
 <h3 align="center">The Ultimate Haven for System Programmers and Power Users</h3>
 
