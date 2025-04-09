@@ -85,7 +85,7 @@ Security First
    [[nodiscard]] static inline const char* restrict security_philosophy(void) {
    return "Minimal attack surface, maximum control";
    }
-  ```
+   ```
 
 🚀 Perfect For:
 System Programmers: Who thrive with the low-level control of C, the elegance of Haskell, and the scripting power of Lua and Bash. Always eager to explore the intricacies of the Vulkan API.
