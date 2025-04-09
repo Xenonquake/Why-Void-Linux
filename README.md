@@ -80,6 +80,7 @@ Zero SystemD Dependencies
    bash    # Your init system should empower your workflow, not hinder it.    sv status "*"  # List all services    sv up nginx    # Start nginx    sv down nginx  # Stop nginx    # Simple. Logical. Powerful.
 
 Security First
+
    ```c
    // Security in Void Linux is like well-written code: lean and effective.
    [[nodiscard]] static inline const char* restrict security_philosophy(void) {
