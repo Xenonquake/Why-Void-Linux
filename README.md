@@ -32,6 +32,8 @@ static const DistroFeatures void_linux = {
     .architecture = "multiple",   // x86_64, i686, ARM, and more
     .release_model = "rolling"   // Always fresh, never stale
 };
+```
+
 🔥 The Power of Choice
 Unlike distributions that try to dictate your tools, Void Linux empowers you with fundamental choices at the core of your system:
 
@@ -46,21 +48,25 @@ Crystal-clear service management
 No mysterious dependencies
 Predictable behavior
 2. opendoas: Sudo's Elegant Cousin
-C
 
+
+```c
 // The privilege escalation you've been waiting for
 [[nodiscard]] static inline const char* why_opendoas(void) {
     return "Because security doesn't need to be complicated";
 }
+```
 Minimal, auditable codebase
 Simple, straightforward configuration
 Enhanced security through simplicity
 No bloat, no nonsense
+
 3. XBPS: Package Management Done Right
 Blazingly fast operations
 Clean dependency resolution
 Source-based options available
 Binary packages for convenience
+
 💪 Technical Superiority
 What truly sets Void Linux apart in the realm of system programming:
 
@@ -79,18 +85,16 @@ Security First
    [[nodiscard]] static inline const char* restrict security_philosophy(void) {
    return "Minimal attack surface, maximum control";
    }
+  ```
 
 🚀 Perfect For:
 System Programmers: Who thrive with the low-level control of C, the elegance of Haskell, and the scripting power of Lua and Bash. Always eager to explore the intricacies of the Vulkan API.
 Security Enthusiasts: Minimal attack surface by design allows for granular control and auditability.
 Performance Seekers: No bloat, no unnecessary services mean resources are dedicated to your tasks.
 Control Freaks: Every aspect is yours to command, from the init system to the package manager.
-🛠️ My Current Skillset Highlights:
-Languages: C, Haskell, Lua, Bashscript
-APIs & Graphics: Vulkan
-Operating Systems: Void Linux (primary), FreeBSD
 Package Management: XBPS
 Init Systems: runit
+
 🎯 Why Choose This Path?
 Focus on Fundamentals
    - Mastering the core building blocks of software and systems.
