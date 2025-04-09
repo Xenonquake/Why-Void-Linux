@@ -96,7 +96,7 @@ What sets Void Linux apart:
 
 ### 🚀 Perfect For:
 
-- **System Programmers**: Who like C99 or need fresh C2x development environment
+- **System Programmers**: Who like C99 or need a fresh C2x development environment
 - **Security Enthusiasts**: Minimal attack surface by design
 - **Performance Seekers**: No bloat, no unnecessary services
 - **Control Freaks**: Every aspect is yours to command
